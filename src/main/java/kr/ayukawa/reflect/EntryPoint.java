@@ -7,6 +7,9 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
+// https://gyrfalcon.tistory.com/entry/Java-Reflection
+// https://velog.io/@shlee7131/Java-%EB%B2%88%EC%99%B8-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98
+// https://hbase.tistory.com/350
 public class EntryPoint {
 	public static void main(String[] args) throws Exception {
 		// Student 클래스의 정보를 가져온다
